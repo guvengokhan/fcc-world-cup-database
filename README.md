@@ -49,7 +49,7 @@ To test this project on your local machine, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/guvengokhan
-    cd fcc-relational-database-worldcup
+    cd fcc-world-cup-database
     ```
 
 2.  **Recreate the database:**
@@ -72,3 +72,4 @@ To test this project on your local machine, follow these steps:
 
 ---
 *Completed as part of the Relational Database Curriculum on freeCodeCamp.*
+
